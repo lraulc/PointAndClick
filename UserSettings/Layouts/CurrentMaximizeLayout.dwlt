@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 300}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 0
-  controlID: 4610
+  controlID: 6762
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 300}
   m_MaxSize: {x: 8096, y: 24288}
   vertical: 1
-  controlID: 4702
+  controlID: 6740
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -615,7 +615,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 4553
+  controlID: 6763
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -768,7 +768,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/The Great Fleece/Game/Post_Processing_Profiles
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -783,7 +783,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3e5c0000
     m_LastClickedID: 23614
-    m_ExpandedIDs: ffffffff000000003e5c00004a5c0000505c0000bc5c0000c65c0000ce5c000000ca9a3b
+    m_ExpandedIDs: ffffffff000000003e5c00004a5c0000505c0000525c0000bc5c0000c65c0000ce5c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -808,10 +808,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 220}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 1eeefeff
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000003e5c00004a5c0000505c0000525c0000bc5c0000c65c0000ce5c000000ca9a3b
+    m_ExpandedIDs: ffffffff000000003e5c000006dc000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -930,7 +930,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -70114
-  m_LastVerticalScrollValue: 471
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
